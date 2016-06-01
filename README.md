@@ -20,6 +20,7 @@ The following SOFORT products are currently supported by the SofortLibJava:
 3. SOFORT Banking Billcode
 4. Refunds
 5. iDEAL
+6. ytest
 
 
 ********************************************************************************
